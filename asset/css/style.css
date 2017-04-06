@@ -6577,3 +6577,24 @@ ul li a:focus {
         width:100%;
     }
 }
+
+
+
+
+.carousel-inner {
+	background: #ffd54f;
+
+}
+
+
+.carousel-inner .item img {
+    position:relative;
+    left:50%;
+    transform: translateX(-50%);
+	height:500px; 
+	width:auto;
+}
+
+
+
+
